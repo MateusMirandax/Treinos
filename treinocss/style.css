@@ -1,0 +1,28 @@
+.formscard input{
+    border: 2px solid #ebebeb;
+    font-family: inherit;
+    font-size: 20px;
+    padding: 0 25px;
+    border-radius: 14px;
+    transition: all 0.37s;
+}
+
+.formscard button{
+    cursor: pointer;
+    width: 100%;
+    padding: 16px;
+    border-radius: 25px;
+    background-color: blueviolet;
+    color: white;
+    border: 0;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 2px;
+    transition: all 0.3s;
+}
+
+.formscard button:hover{
+    background: #0:1;
+}
